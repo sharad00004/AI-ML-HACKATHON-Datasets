@@ -5,7 +5,7 @@
 
 This repository contains the dataset and starter notebook for the **Electricity Bill Prediction Challenge** (Day 11 of the AI/ML Hackathon).
 
-Participants are expected to build a machine learning regression model to predict monthly electricity bills based on appliance usage, energy provider, and location data.
+Participants are expected to build a machine learning regression model to predict monthly electricity bills based on appliance usage,tariffs, energy provider, and location data.
 
 ---
 
